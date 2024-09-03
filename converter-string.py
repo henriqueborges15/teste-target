@@ -1,4 +1,6 @@
-string = input("digite o que deseje inverter: ")
+print('-'*30)
+string = input("Digite o que deseje inverter: ")
+
 
 def modificar_string(s):
     inverter_string = ""
@@ -8,4 +10,6 @@ def modificar_string(s):
 
 string_invertida = modificar_string(string)
 
+print('-'*30)
 print(f"A palavra {string} invertida: {string_invertida} ")
+print('-'*30)
