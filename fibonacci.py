@@ -1,5 +1,5 @@
-# print('-'*30)
-# print('Sequencia de Fibonacci')
+print('-'*30)
+print('Sequencia de Fibonacci')
 print('-'*30)
 n = int(input('Quantos termos você quer mostrar? '))
 t1 = 0
